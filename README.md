@@ -8,12 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Language/Framework, e.g., Rust or Go]**
-- 👯 I’m looking to collaborate on **Open Source projects**
-- 💬 Ask me about **React, Node.js, and System Design**
-- ⚡ Fun fact: **I once spent 3 hours debugging a semicolon.**
-
+- 🔭 I'm an aspiring Data Scientist and AI Engineer
 ---
 
 ### 🛠️ Tech Stack
@@ -32,8 +27,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyle-darren-laguerta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-darren-laguerta&layout=compact&theme=tokyonight" />
 </p>
 
 ---
