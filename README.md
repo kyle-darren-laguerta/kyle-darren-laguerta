@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Coffee+Addict" alt="Typing SVG" />
